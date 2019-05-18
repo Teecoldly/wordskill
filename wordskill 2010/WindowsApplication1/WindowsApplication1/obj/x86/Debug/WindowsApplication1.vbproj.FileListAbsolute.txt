@@ -1,0 +1,17 @@
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.conf.resources
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.editprofile.resources
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.login.resources
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.manurunner.resources
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.race.resources
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.regevent.resources
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.register.resources
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\SBAC\Desktop\wordskill 2010\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
